@@ -1,0 +1,4 @@
+Namespace,Table,PK,NotNull,CustomSQL_FileName,Description,checktype
+dim_sbscrptn_pkg,finance_dm.dim_sbscrptn_package,,,dim_sbscrptn_package_unique,Check if there are duplicates in the surrogate key column.,SQL
+dim_sbscrptn_pkg,finance_dm.dim_sbscrptn_package,,,dim_sbscrptn_package_unique1,Check if there are duplicates in the primary key column.,SQL
+dim_sbscrptn_pkg,finance_dm.dim_sbscrptn_package,,,dim_sbscrptn_package_CC,Completeness Check.,SQL
