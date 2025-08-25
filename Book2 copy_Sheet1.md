@@ -18,3 +18,4 @@
 | Internal Plan for SOX controls                                                   | https://docs.google.com/spreadsheets/d/1qSTlImbjEDWeXUB2PDGjP9E7f5Pl0jyGj4jGHfauI28/edit?gid=234731354#gid=234731354   |
 | dim validation document drive                                                    | https://drive.google.com/drive/folders/1BKyovdV-pTSfJwkN-to5MfsEvvQwirm0                                               |
 | Validation for Accuracy and Completeness Variances of DIM_SBSCRPTN_OFFER_PACKAGE | https://jira.intuit.com/browse/FAN-13748                                                                               |
+| Validation for Accuracy and Completeness Variances of DIM_SBSCRPTN_OFFER_PACKAGE | https://jira.intuit.com/browse/FAN-13748                                                                               |
